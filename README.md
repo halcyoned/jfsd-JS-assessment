@@ -1,5 +1,8 @@
 # jfsd-JS-assessment
 Edmund Loo
+2073958G@STUDENT.TP.EDU.SG
+
+Note: Up down left right are controlled by keys "W A S D" respectively! I find that it is more intuitive this way :)
 
 What did you like about this project?
 A lot of guidance was given. Framework was laid out and carefully explained, which was very helpful in understanding the base framework. It was also a good test of logic.
